@@ -19,7 +19,7 @@ Frontend разработчик
 
 ## Связаться со мной
 - [LinkedIn](ваша_ссылка_на_LinkedIn)
-- Email: ваш_email@example.com
+- Email: kraskoaliaksei@gmail.com
 
 <!--
 **AliakseiKrasko/AliakseiKrasko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
