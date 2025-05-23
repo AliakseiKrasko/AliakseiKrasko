@@ -12,21 +12,9 @@
 ### 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliakseiKrasko&layout=compact&theme=light&hide_border=true&langs_count=6)
 
-🌱 I'm looking into it now:
-- React Native
-- Node.js
-- MongoDB
 
-### 💼 Projects I'm working on:
-- 🚀 Веб-приложение для [SPA]
-- 📱 Мобильное приложение [proper-diet]
-- 🌐 [ui-kit]
 
 ### 📫 How to contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kraskoaliaksei@gmail.com)
 
----
-<p align="center">
-<img src="https://img.shields.io/badge/HAPPY_CODING!-blue?style=for-the-badge" alt="Happy Coding!"/>
-</p>
